@@ -1,1 +1,3 @@
 
+1|Pemrograman Dasar|John Doe|2024
+2|Algoritma dan Struktur Data|Jane Smith|2023
