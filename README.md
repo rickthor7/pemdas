@@ -1,12 +1,9 @@
 # 📚 Sistem Manajemen Perpustakaan Online
 
 Dibuat oleh: 
-1. M. Thoriq Dhiya ul haq
-24081204170
-2. Moch Mufid
-24051204149
-3. M. Ilham Jazuli
-240512041
+1. M. Thoriq Dhiyaul haq 24081204170
+2. Moch Mufid 24051204149
+3. M. Ilham Jazuli 24051204154
    
 Selamat datang di proyek kita **Sistem Manajemen Perpustakaan Online**! 🚀 Aplikasi ini dirancang untuk mempermudah pengelolaan data buku di perpustakaan dengan fitur-fitur sederhana namun fungsional. Dibangun menggunakan **C++**, aplikasi ini cocok untuk belajar dan mengembangkan kemampuan programming Anda. 😎
 
