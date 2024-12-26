@@ -1,7 +1,7 @@
 # 📚 SISMAN PERON: Sistem Manajemen Perpustakaan Online
 
 Dibuat oleh: 
-1. M. Thoriq Dhiyaulhaq 24081204170
+1. M. Thoriq Dhiyaulhaq 24051204170
 2. Moch Mufid 24051204149
 3. M. Ilham Jazuli 24051204154
 
