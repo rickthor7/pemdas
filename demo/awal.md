@@ -1,4 +1,4 @@
-Berikut adalah penjelasan kode tersebut per baris:
+Penjelasan Awab Bejir:
 
 Header dan Namespace
 ```
